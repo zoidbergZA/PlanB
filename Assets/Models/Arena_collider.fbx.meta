@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: cc14dfe3fdf4f71478cf2c7cfe5e8a72
+timeCreated: 1441638938
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Fence_collider
+    100004: Frame_1
+    100006: Frame_2
+    100008: Frame_3
+    100010: Main_structure
+    100012: Main_Tower1
+    100014: Rotator1
+    100016: Rotator2
+    100018: Rotator3
+    100020: Upgrade_1
+    100022: Upgrade_2
+    100024: Upgrade_3
+    400000: //RootNode
+    400002: Fence_collider
+    400004: Frame_1
+    400006: Frame_2
+    400008: Frame_3
+    400010: Main_structure
+    400012: Main_Tower1
+    400014: Rotator1
+    400016: Rotator2
+    400018: Rotator3
+    400020: Upgrade_1
+    400022: Upgrade_2
+    400024: Upgrade_3
+    2300000: Fence_collider
+    2300002: Frame_1
+    2300004: Frame_2
+    2300006: Frame_3
+    2300008: Main_structure
+    2300010: Main_Tower1
+    2300012: Rotator1
+    2300014: Rotator2
+    2300016: Rotator3
+    2300018: Upgrade_1
+    2300020: Upgrade_2
+    2300022: Upgrade_3
+    3300000: Fence_collider
+    3300002: Frame_1
+    3300004: Frame_2
+    3300006: Frame_3
+    3300008: Main_structure
+    3300010: Main_Tower1
+    3300012: Rotator1
+    3300014: Rotator2
+    3300016: Rotator3
+    3300018: Upgrade_1
+    3300020: Upgrade_2
+    3300022: Upgrade_3
+    4300000: Main_Tower1
+    4300002: Rotator1
+    4300004: Rotator2
+    4300006: Rotator3
+    4300008: Main_structure
+    4300010: Fence_collider
+    4300012: Frame_1
+    4300014: Frame_2
+    4300016: Frame_3
+    4300018: Upgrade_1
+    4300020: Upgrade_2
+    4300022: Upgrade_3
+    6400000: Fence_collider
+    6400002: Frame_1
+    6400004: Frame_2
+    6400006: Frame_3
+    6400008: Main_structure
+    6400010: Main_Tower1
+    6400012: Rotator1
+    6400014: Rotator2
+    6400016: Rotator3
+    6400018: Upgrade_1
+    6400020: Upgrade_2
+    6400022: Upgrade_3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 30
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

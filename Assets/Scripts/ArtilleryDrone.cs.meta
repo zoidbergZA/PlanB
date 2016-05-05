@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: a39b4062fd548c04a9c9845bacae4d7f
+timeCreated: 1442317969
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - floatingText_ref: {instanceID: 0}
+  - myAudioSource: {instanceID: 0}
+  - minimapIconPrefab: {instanceID: 0}
+  - deathPrefab: {instanceID: 0}
+  - takeDamagePrefab: {instanceID: 0}
+  - navMeshAgent: {instanceID: 0}
+  - bulletPrefab: {instanceID: 0}
+  - shootSound: {instanceID: 0}
+  - shoot_ref: {instanceID: 0}
+  - model: {fileID: 177596, guid: 14471d53a7ebe3246ba6d71f995dfc16, type: 2}
+  - artilleryShellPrefab: {instanceID: 0}
+  - model: {instanceID: 0}
+  - fireSystem: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

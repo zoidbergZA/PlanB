@@ -1,0 +1,448 @@
+fileFormatVersion: 2
+guid: cecd4c168c04bfe46bb4dc479cd199f5
+timeCreated: 1442317817
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: gravityField1
+    100004: radialField1
+    100006: shard1
+    100008: shard10
+    100010: shard11
+    100012: shard12
+    100014: shard13
+    100016: shard14
+    100018: shard15
+    100020: shard16
+    100022: shard17
+    100024: shard18
+    100026: shard19
+    100028: shard2
+    100030: shard20
+    100032: shard21
+    100034: shard22
+    100036: shard3
+    100038: shard4
+    100040: shard5
+    100042: shard6
+    100044: shard7
+    100046: shard8
+    100048: shard9
+    100050: solidShatter1
+    100052: SpawnBeacon
+    100054: shard5 1
+    100056: transform1
+    100058: transform10
+    100060: transform11
+    100062: transform12
+    100064: transform13
+    100066: transform14
+    100068: transform15
+    100070: transform16
+    100072: transform17
+    100074: transform18
+    100076: transform19
+    100078: transform2
+    100080: transform20
+    100082: transform21
+    100084: transform22
+    100086: transform3
+    100088: transform4
+    100090: transform5
+    100092: transform6
+    100094: transform7
+    100096: transform8
+    100098: transform9
+    400000: //RootNode
+    400002: gravityField1
+    400004: radialField1
+    400006: shard1
+    400008: shard10
+    400010: shard11
+    400012: shard12
+    400014: shard13
+    400016: shard14
+    400018: shard15
+    400020: shard16
+    400022: shard17
+    400024: shard18
+    400026: shard19
+    400028: shard2
+    400030: shard20
+    400032: shard21
+    400034: shard22
+    400036: shard3
+    400038: shard4
+    400040: shard5
+    400042: shard6
+    400044: shard7
+    400046: shard8
+    400048: shard9
+    400050: solidShatter1
+    400052: SpawnBeacon
+    400054: shard5 1
+    400056: transform1
+    400058: transform10
+    400060: transform11
+    400062: transform12
+    400064: transform13
+    400066: transform14
+    400068: transform15
+    400070: transform16
+    400072: transform17
+    400074: transform18
+    400076: transform19
+    400078: transform2
+    400080: transform20
+    400082: transform21
+    400084: transform22
+    400086: transform3
+    400088: transform4
+    400090: transform5
+    400092: transform6
+    400094: transform7
+    400096: transform8
+    400098: transform9
+    2300000: shard1
+    2300002: shard10
+    2300004: shard11
+    2300006: shard12
+    2300008: shard13
+    2300010: shard14
+    2300012: shard15
+    2300014: shard16
+    2300016: shard17
+    2300018: shard18
+    2300020: shard19
+    2300022: shard2
+    2300024: shard20
+    2300026: shard21
+    2300028: shard22
+    2300030: shard3
+    2300032: shard4
+    2300034: shard5
+    2300036: shard6
+    2300038: shard7
+    2300040: shard8
+    2300042: shard9
+    2300044: SpawnBeacon
+    3300000: shard1
+    3300002: shard10
+    3300004: shard11
+    3300006: shard12
+    3300008: shard13
+    3300010: shard14
+    3300012: shard15
+    3300014: shard16
+    3300016: shard17
+    3300018: shard18
+    3300020: shard19
+    3300022: shard2
+    3300024: shard20
+    3300026: shard21
+    3300028: shard22
+    3300030: shard3
+    3300032: shard4
+    3300034: shard5
+    3300036: shard6
+    3300038: shard7
+    3300040: shard8
+    3300042: shard9
+    3300044: SpawnBeacon
+    4300000: SpawnBeacon
+    4300002: shard5
+    4300004: shard9
+    4300006: shard10
+    4300008: shard11
+    4300010: shard12
+    4300012: shard1
+    4300014: shard13
+    4300016: shard2
+    4300018: shard14
+    4300020: shard15
+    4300022: shard3
+    4300024: shard16
+    4300026: shard17
+    4300028: shard4
+    4300030: shard18
+    4300032: shard19
+    4300034: shard6
+    4300036: shard20
+    4300038: shard7
+    4300040: shard21
+    4300042: shard22
+    4300044: shard8
+    7400000: Explosion
+    7400002: Rotation
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Explosion
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: gravityField1
+        weight: 1
+      - path: radialField1
+        weight: 1
+      - path: shard5
+        weight: 1
+      - path: SpawnBeacon
+        weight: 1
+      - path: SpawnBeacon/solidShatter1
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard1
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard1/transform17
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard2
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard2/transform15
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard3
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard3/transform12
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard4
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard4/transform9
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard5 1
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard5 1/transform22
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard6
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard6/transform6
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard7
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard7/transform4
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard8
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard8/transform1
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard9
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard9/transform21
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard10
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard10/transform20
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard11
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard11/transform19
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard12
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard12/transform18
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard13
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard13/transform16
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard14
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard14/transform14
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard15
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard15/transform13
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard16
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard16/transform11
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard17
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard17/transform10
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard18
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard18/transform8
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard19
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard19/transform7
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard20
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard20/transform5
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard21
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard21/transform3
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard22
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard22/transform2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Rotation
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: gravityField1
+        weight: 1
+      - path: radialField1
+        weight: 1
+      - path: SpawnBeacon
+        weight: 1
+      - path: SpawnBeacon/solidShatter1
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard1
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard2
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard3
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard4
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard5
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard6
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard7
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard8
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard9
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard10
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard11
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard12
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard13
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard14
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard15
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard16
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard17
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard18
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard19
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard20
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard21
+        weight: 1
+      - path: SpawnBeacon/solidShatter1/shard22
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

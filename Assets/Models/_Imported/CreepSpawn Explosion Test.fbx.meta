@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: 9d8f180ecab571f418cfb9370463b3a0
+timeCreated: 1442311964
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: gravityField1
+    100004: radialField1
+    100006: shard1
+    100008: shard10
+    100010: shard11
+    100012: shard12
+    100014: shard13
+    100016: shard14
+    100018: shard15
+    100020: shard16
+    100022: shard17
+    100024: shard18
+    100026: shard19
+    100028: shard2
+    100030: shard20
+    100032: shard21
+    100034: shard22
+    100036: shard3
+    100038: shard4
+    100040: shard5
+    100042: shard6
+    100044: shard7
+    100046: shard8
+    100048: shard9
+    100050: solidShatter1
+    100052: SpawnBeacon
+    400000: //RootNode
+    400002: gravityField1
+    400004: radialField1
+    400006: shard1
+    400008: shard10
+    400010: shard11
+    400012: shard12
+    400014: shard13
+    400016: shard14
+    400018: shard15
+    400020: shard16
+    400022: shard17
+    400024: shard18
+    400026: shard19
+    400028: shard2
+    400030: shard20
+    400032: shard21
+    400034: shard22
+    400036: shard3
+    400038: shard4
+    400040: shard5
+    400042: shard6
+    400044: shard7
+    400046: shard8
+    400048: shard9
+    400050: solidShatter1
+    400052: SpawnBeacon
+    2300000: shard1
+    2300002: shard10
+    2300004: shard11
+    2300006: shard12
+    2300008: shard13
+    2300010: shard14
+    2300012: shard15
+    2300014: shard16
+    2300016: shard17
+    2300018: shard18
+    2300020: shard19
+    2300022: shard2
+    2300024: shard20
+    2300026: shard21
+    2300028: shard22
+    2300030: shard3
+    2300032: shard4
+    2300034: shard5
+    2300036: shard6
+    2300038: shard7
+    2300040: shard8
+    2300042: shard9
+    2300044: SpawnBeacon
+    3300000: shard1
+    3300002: shard10
+    3300004: shard11
+    3300006: shard12
+    3300008: shard13
+    3300010: shard14
+    3300012: shard15
+    3300014: shard16
+    3300016: shard17
+    3300018: shard18
+    3300020: shard19
+    3300022: shard2
+    3300024: shard20
+    3300026: shard21
+    3300028: shard22
+    3300030: shard3
+    3300032: shard4
+    3300034: shard5
+    3300036: shard6
+    3300038: shard7
+    3300040: shard8
+    3300042: shard9
+    3300044: SpawnBeacon
+    4300000: SpawnBeacon
+    4300002: shard5
+    4300004: shard9
+    4300006: shard10
+    4300008: shard11
+    4300010: shard12
+    4300012: shard1
+    4300014: shard13
+    4300016: shard2
+    4300018: shard14
+    4300020: shard15
+    4300022: shard3
+    4300024: shard16
+    4300026: shard17
+    4300028: shard4
+    4300030: shard18
+    4300032: shard19
+    4300034: shard6
+    4300036: shard20
+    4300038: shard7
+    4300040: shard21
+    4300042: shard22
+    4300044: shard8
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
